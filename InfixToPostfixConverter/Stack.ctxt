@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment0.text=\r\n\ Return\ the\ size\ of\ the\ stack,\ returns\ null\ if\ Stack\ is\ empty\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ Return\ true\ if\ the\ stack\ is\ empty,\ return\ false\ otherwise\r\n
+comment2.params=e
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\r\n\ Push\ the\ object,\ e,\ on\ to\ the\ top\ of\ the\ stack\r\n\ @param\ the\ Object\ e,\ of\ generic\ type\ Element,\ to\ be\ pushed\ on\ to\ the\ stack\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ Removes\ the\ top\ element\ from\ the\ list\ AND\ returns\ it\r\n\ Returns\ null\ if\ stack\ empty\r\n
+comment4.params=
+comment4.target=java.lang.Object\ top()
+comment4.text=\r\n\ Aka\ peek()\r\n\ Returns\ the\ top\ element\ of\ the\ stack,\ but\ DOES\ NOT\ remove\ it\ fom\ the\ stack\r\n\ Returns\ null\ if\ the\ stack\ is\ empty\r\n
+numComments=5

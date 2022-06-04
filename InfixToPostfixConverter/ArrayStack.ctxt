@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=newArrayStackCapacity
+comment0.target=ArrayStack(int)
+comment0.text=\r\n\ Constructor\ for\ manually\ creating\ a\ new\ ArrayStack\r\n\ @parameter\ the\ capacity\ as\ specified\ by\ the\ user\r\n
+comment1.params=
+comment1.target=ArrayStack()
+comment1.text=\r\n\ Default\ constructor\ for\ ArrayStack\ with\ capacity\ of\ 20\ as\ \r\n\ specified\ in\ the\ assignment\ brief\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\r\n\ Checks\ if\ the\ stack\ is\ empty\ by\ returning\ true\ if\ top\ equals\ -1\r\n\ \ @return\ true\ if\ top\ equals\ -1,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\r\n\ @return\ the\ size\ of\ the\ stack\r\n
+comment4.params=e
+comment4.target=void\ push(java.lang.Object)
+comment4.text=\r\n\ @param\ the\ object\ to\ be\ added\ to\ the\ top\ of\ the\ stack\r\n
+comment5.params=
+comment5.target=java.lang.Object\ top()
+comment5.text=\r\n\ Aka\ peek()\r\n\ Returns\ the\ top\ E\ in\ the\ stack,\ which\ is\ at\ position\ top\ (-1)\r\n\ If\ the\ stack\ is\ empty,\ then\ there\ is\ nothing\ to\ return\ so\ throw\ an\ EmptyStackException\ to\ let\ the\ user\ know\r\n
+comment6.params=
+comment6.target=java.lang.Object\ pop()
+comment6.text=\r\n\ Remove\ and\ turn\ the\ top\ element\ from\ the\ stack\ provided\ the\ stack\ is\ not\ empty\r\n\ if\ the\ stack\ is\ empty,\ throw\ an\ EmptyStackException\r\n\ @return\ the\ object\ removed\ from\ the\ stack\r\n
+numComments=7
